@@ -1,0 +1,137 @@
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Trend Your Shop REPRISE.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend Your Shop REPRISE.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend Your Shop REPRISE.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Trend Your Shop REPRISE.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Trend Your Shop REPRISE.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CircularProgressBar.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Dapper.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\FlashControlV71.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\WinFormAnimation.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\stdole.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CircularProgressBar.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Dapper.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\WinFormAnimation.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Auto_Email_Backup.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Company_Details.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Complain.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Client_View.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Clients.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Home.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.View_Stock.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Daily_Bill_Payment.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Report.Item_And_Rate_Report.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Item_Rate_Record.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Login.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Purchase_Details.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Sales_Details.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Stock_Details.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Menu.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Group_form.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Item_and_Price.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Product_Name.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Report.Login_User_Report.Login_User_Report.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Purchase_Records.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Purchase_Report.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Purchase_Stock_Entry.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Sale_Bill_Report.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Sale_Stock_Reports.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Stock_Report_Viewer.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Stock_Report.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Unit_Details.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.User_Detail.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.VAT_Entry.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.VAT_Report_Viewer.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.VAT_Report.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Vendor_Details_Viewer.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Vendors_form.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend Your Shop REPRISE.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Animator.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend Your Shop REPRISE.csprojResolveAssemblyReference.cache
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Trend Your Shop REPRISE.exe.config
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend Your Shop REPRISE.exe
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend Your Shop REPRISE.pdb
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend Your Shop REPRISE.csprojResolveAssemblyReference.cache
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Auto_Email_Backup.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Complain.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Client_View.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Clients.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Home.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.View_Stock.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Daily_Bill_Payment.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Report.Item_And_Rate_Report.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Item_Rate_Record.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Login.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Purchase_Details.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Sales_Details.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Stock_Details.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Item_and_Price.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Properties.Resources.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Report.Login_User_Report.Login_User_Report.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Purchase_Records.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Purchase_Report.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Purchase_Stock_Entry.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Sale_Bill_Report.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Sale_Stock_Reports.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Stock_Report_Viewer.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Stock_Report.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.User_Detail.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.VAT_Report_Viewer.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.VAT_Report.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Vendor_Details_Viewer.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Vendors_form.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend Your Shop REPRISE.csproj.GenerateResource.Cache
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Trend Your Shop REPRISE.exe
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Trend Your Shop REPRISE.pdb
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CircularProgressBar.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.Shared.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Dapper.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\FlashControlV71.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\WinFormAnimation.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\ShockwaveFlashObjects.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\stdole.dll
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\CircularProgressBar.xml
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Dapper.xml
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\WinFormAnimation.xml
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Admin.Main_Menu.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Admin.Add_Company.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Groups.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Item_and_Prices.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Unit_Details.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.VAT_Entries.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Master_Enrty.Vendor.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\obj\Debug\Trend_Your_Shop_REPRISE.Admin.passwordChange.resources
+D:\My device\Documents\Visual Studio 2015\Projects\Trend Your Shop REPRISE\Trend Your Shop REPRISE\bin\Debug\Bunifu_UI_v1.52.dll
